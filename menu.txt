@@ -1,0 +1,52 @@
+Menu Item	Price
+Burgers
+2 x Double Down Combo	Rs 449.00
+2 x Double Down Burgers	Rs 389.00
+Zinger Burger	Rs 150.00
+Zinger Burger Combo	Rs 229.00
+2 x Zinger Burgers	Rs 219.00
+5 in 1 Zinger Burger Box	Rs 239.00
+KFC Favorites Meal (Chicken Zinger, 4 Hot Wings, Large Popcorn)	Rs 375.00
+KFC Favorites Meal & Pepsi Can (Chicken Zinger, 4 Hot Wings, Large popcorn, Pepsi Can)	Rs 399.00
+Veg Zinger Burger	Rs 140.00
+Chicken
+Ultimate Savings Bucket (4 Hot & Crispy, 6 Hot Wings, 6 Boneless Strips, 1 Pepsi Pet and 2 Dips)	Rs 599.00
+Triple Treat Bucket (4 Hot & Crispy, 6 Boneless Strips, 4 Smoky Grilled Strips)	Rs 675.00
+KFC 4+4 (4 Hot & Crispy, 4 Boneless Strips, 1 Dip)	Rs 380.00
+8PC Hot & Crispy	Rs 650.00
+6PC Hot & Crispy	Rs 550.00
+4PC Hot & Crispy	Rs 380.00
+2PC Hot & Crispy	Rs 200.00
+8PC Smoky Grilled	Rs 650.00
+6PC Smoky Grilled	Rs 550.00
+4PC Smoky Grilled	Rs 380.00
+Big 8 Meal (4 Hot & Crispy, 4 Hot Wings, 4 Smoky Grilled + 2 Pepsi cans)	Rs 649.00
+Chick & Share (5 Hot & Crispy, 10 Boneless, 2 Lg popcorn)	Rs 399.00
+Chick & Share & Drinks (5 Hot & Crispy, 10 Boneless, 2 Lg Popcorn, 3 Pepsi cans)	Rs 475.00
+Friendship Bucket (3 Hot & Crispy, 3 Hot Wings, 3 Boneless, 1 Large Popcorn)	Rs 650.00
+Friendship Bucket Meal (3 Hot & Crispy, 3 Hot Wings, 3 Boneless, 1 Lg Popcorn, 2 Pepsi cans)	Rs 700.00
+Smoky Duo Bucket (4 Smoky Grilled, 4 Boneless, 2 cans of Pepsi)	  Rs 500.00
+Duo Bucket Meal (4 Hot & Crispy, 4 Boneless, 2 Pepsi Cans)	Rs 500.00
+Mingles Bucket (3 Boneless, 6 Hot Wings)	Rs 299.00
+Rice Bowlz
+Popcorn Rice Combo	 Rs 219.00
+Popcorn Rice Duo	Rs 199.00
+5 in 1 Rice Box	Rs 239.00
+Smoky Rice Bowl	Rs 180.00
+Smoky Rice Bowl & Pepsi	Rs 215.00
+Chicken Rice Bowl	Rs 135.00
+Chicken Rice Bowl & Pepsi	Rs 180.00
+Veg Rice Bowl	Rs 135.00
+Veg Rice Bowl & Pepsi	Rs 180.00
+Snacks
+Large Popcorn	Rs 200.00
+4PC Hot Wings	Rs 130.00
+6PC Boneless Strips	Rs 215.00
+3PC Boneless Strips	Rs 130.00
+1PC Hot & Crispy	Rs 110.00
+1PC Smoky Grilled	Rs 110.00
+4PC Veg Strips	Rs 130.00
+Drinks
+Pepsi Can	 Rs 30.00
+Pepsi Bottle	Rs 60.00
+Red Bull	Rs 140.00
